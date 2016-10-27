@@ -1,0 +1,20 @@
+.icon1{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.icon2{
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+
+/*********功能类*************/
+.f-fl{float:left};
+.f-fr{float:right}
