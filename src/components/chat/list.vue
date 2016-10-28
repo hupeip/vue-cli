@@ -73,7 +73,7 @@ a:hover {
 }
 .action{background-color: rgba(175, 179, 173, 0.4)}
 .left{position: absolute; width: 40px; height: 40px;}
-.right{margin-left: 52px; width: 100%; }
+.right{margin-left: 52px;}
 img{width: 40px;}
 .name{font-size: 14px;margin-bottom: 2px; color: #2b2b2b;}
 .content{font-size: 12px;}

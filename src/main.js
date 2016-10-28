@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import App from './App'
 
+import MintUI from 'mint-ui'
+import 'mint-ui/lib/style.css'
+
 import VueRouter from 'vue-router'
 import routes from './router'
 
@@ -10,6 +13,7 @@ import './assets/css/common.css'
 
 // 声明使用vue-router
 Vue.use(VueRouter)
+Vue.use(MintUI)
 
 // 创建路由
 const router = new VueRouter({
